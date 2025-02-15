@@ -1,0 +1,5 @@
+Pos	Ref_nul	Total_hits	#a_hits	%a_hits	#c_hits	%c_hits	%g_hits	%g_hits	#n_hits	%n_hits	#t_hits	%t_hits	#mismatch_hits	Total_hits(MAPQ_not_filtered)	HPB(MAPQ_not_filtered)	Max_mismatch_nul	%Max_mismatch_nul_hits
+chr1:14455	t	3	0	0	2	0.666666666666667	0	0	0	0	1	0.333333333333333	2	3	1.67404729566632 	c 0.666666666666667
+chr1:912985	a	2	0	0	0	0	2	1	0	0	0	0	2	3	1.67404729566632 	g 1
+chr1:930445	c	4	0	0	2	0.5	0	0	0	0	2	0.5	2	6	3.34809459133265 	t 0.5
+chr1:944547	c	164	2	0.0121951219512195	162	0.98780487804878	0	0	0	0	0	0	2	203	113.277200340088 	a 0.0121951219512195
