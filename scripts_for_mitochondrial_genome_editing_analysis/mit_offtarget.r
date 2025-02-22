@@ -1,11 +1,5 @@
-
-
 library(plyr)
-library(ggplot2)
 library(stringr)
-library(ggsignif)
-library(pheatmap)
-library(ggExtra)
 
 #----------- read CFBI output files
 path<-"./CFBI_output_files"
